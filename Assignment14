@@ -1,0 +1,18 @@
+package assi14;
+
+public class ascii {
+
+	public static void main(String[] args) {
+		
+	char A;
+	for(int i=65;i<=90;i++){
+		A=(char)i;
+		System.out.println(i+" = "+A);
+	}
+	
+	
+	
+
+	}
+
+}
